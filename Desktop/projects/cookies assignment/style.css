@@ -1,0 +1,42 @@
+body {
+	background-size: auto 700%;
+	background-color: #eadcdc;
+	padding: 0;
+	margin: 0;
+}
+
+}
+
+h1{
+	text-align: center;
+	color:#8b7244;
+	padding-bottom:15px;
+	font-size:40px;
+	padding-top: 15px;
+	font-weight:bold;
+	font-family: Libre Baskerville;
+}
+.contact-info{
+	text-align: center;
+	font-family: Libre Baskerville;
+	font-size: 20px;
+}
+#order{
+	text-align: center;
+}
+span{
+	font-size: 20px;
+}
+button{
+	margin: 15px;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+p{
+	text-align: center;
+	font-family: Libre Baskerville;
+	font-size: 20px;
+}
