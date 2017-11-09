@@ -18,4 +18,6 @@ $(document).ready(function(){
         var new_width = $(".recipe-description").prev().width()
         $(".recipe-description").width(new_width)
     });
+    var new_width = $(".recipe-description").prev().width()
+    $(".recipe-description").width(new_width)
 });
